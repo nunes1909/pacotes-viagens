@@ -15,7 +15,6 @@ Recursos: ConstraintLayout + ListView.<br>
     - Método "getItem()" -> Retorna os itens pela posição.
         - ``` return copiaPacotes.get(posicao); ```
     - Método "getView()" -> Implementa o Layout dos itens, e também add as informações dos itens no Layout.
-        - _Explicado mais abaixo._
 4. **Configuração do DAO.**
     - Classe responsável por armazenar os dados de cada item da lista.
 5. **Configuração do processo de "bind" das informações no layout.**
