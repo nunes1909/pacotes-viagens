@@ -21,7 +21,7 @@ Recursos: ConstraintLayout + ListView.<br>
 6. **Refatoração em todo o código da aplicação.**
 7. **Implementação de Classes Utilitárias.**
     - A classe adapter estava com muitas responsabilidades além da configuração do adapter.
-    - As responsabilidades a mais foram transferias para as classes DiasUtil, MoedaUtil e ResourceUtil.
+    - As responsabilidades a mais foram transferidas para as classes DiasUtil, MoedaUtil e ResourceUtil.
     - Todas as classes foram movidas para o package util.
 8. **Refatoração dos layouts.**
     - Implementação de contentDescription em todos os campos.
