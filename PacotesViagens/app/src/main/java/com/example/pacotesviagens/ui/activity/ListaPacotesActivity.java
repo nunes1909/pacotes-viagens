@@ -19,7 +19,7 @@ public class ListaPacotesActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_lista_viagens);
+        setContentView(R.layout.activity_lista_pacotes);
         //CTRL + ALT + C
         setTitle(TITULO_APP_BAR);
 
