@@ -23,5 +23,11 @@ Recursos: ConstraintLayout + ListView.<br>
     - A classe adapter estava com muitas responsabilidades além da configuração do adapter.
     - As responsabilidades a mais foram transferias para as classes DiasUtil, MoedaUtil e ResourceUtil.
     - Todas as classes foram movidas para o package util.
-   
+8. **Refatoração dos layouts.**
+    - Implementação de contentDescription em todos os campos.
+    - Extração de strings hardcoded.
+    - Remoção do divider da listview.
+    - Pequenos ajustes como: margins, ajuste de cores, fontes e etc.
+9. **Finalizando o projeto.** 🚀🎉
     
+![2022-03-07 01-17-15](https://user-images.githubusercontent.com/80295127/156967523-b67d9062-a198-470d-9bc0-ef46ce4bf0ad.gif)
